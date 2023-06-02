@@ -1,7 +1,7 @@
 # I'm Raheem
 👋 Hi, I’m Raheem Adebayo, a software engineer.
 
-💞️ I’m looking to collaborate on any project
+💞️ I’m looking to collaborate on any `Java`, `Spring boot`, `JavaScript`, `TypeScript`, `React JS`, `Next JS` project
 
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
