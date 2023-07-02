@@ -1,5 +1,5 @@
 # I'm Raheem
-👋 Hi, I’m Raheem Adebayo, a software engineer.
+👋 Hi, I’m Raheem Adebayo, a Java and JavaScript full-stack software engineer.
 
 💞️ I’m looking to collaborate on any project 😎
 
