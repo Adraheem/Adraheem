@@ -5,7 +5,7 @@
 
 ### My Stack 🧑🏽‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,nextjs,postgres,sass,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,nextjs,postgres,sass,tailwind&theme=dark)](https://linkedin.com/in/adebayo-raheem)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Adraheem&theme=algolia&show_icons=true&hide_border=false&rank_icon=github&border_color=0595de66)](https://github.com/Adraheem) 
 
